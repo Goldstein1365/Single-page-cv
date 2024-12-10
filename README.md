@@ -11,4 +11,4 @@ To view the CV, you can open the HTML file in any web browser.
 
 ## Project URL
 You can access the live version of this project on GitHub Pages or view the repository on GitHub:
-- GitHub Repository: https://github.com/Goldstein1365/Single-page-cv.git
+- GitHub Repository: https://github.com/Goldstein1365/Single-page-cv
