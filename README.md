@@ -9,5 +9,5 @@ To view the CV, you can open the HTML file in any web browser.
 ### Steps:
 1. Clone the repository:
 
-## Project URL
+## project URL
 https://github.com/Goldstein1365/Single-page-cv
