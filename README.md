@@ -1,4 +1,4 @@
-## project URL https://github.com/Goldstein1365/Single-page-cv
+project URL: https://github.com/Goldstein1365/Single-page-cv
 
 # My Single-Page CV
 ## Description
